@@ -172,3 +172,6 @@ project-root/
 -   **[duplicate-finder](https://github.com/drsungwon/duplicate_finder)**: 제출된 로그 파일 간의 중복을 탐지하는 도구입니다.
 -   **[hybrid-encryption](https://github.com/drsungwon/hybrid_encryption)**: (참고: `mission-decoder` 등에서 사용되는 암호화 모듈)
 -   **MISSION-INSPECTOR-OVERALL**: `Mission Inspector`가 학생들의 개발 과정을 어떻게 정량적으로 평가하는지에 대한 상세 설명이 담긴 논문이 포함되어 있습니다.
+
+## 외부 링크
+-   **[Inspector](https://dx.khu.ac.kr/@20251223/intro_to_inspector.html)** : 동적 앙상블 개발 과정 평가 시스템 (Inspector)
